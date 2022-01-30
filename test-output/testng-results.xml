@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3659" started-at="2022-01-30T20:30:14 CET" finished-at="2022-01-30T20:30:18 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3659" started-at="2022-01-30T20:30:14 CET" finished-at="2022-01-30T20:30:18 CET">
+      <class name="testCases.Test_User_Login">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testCases.Test_User_Login@4d50efb8]" name="launchBrowser" is-config="true" duration-ms="4255" started-at="2022-01-30T20:30:10 CET" finished-at="2022-01-30T20:30:14 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="forgotPassword()[pri:0, instance:testCases.Test_User_Login@4d50efb8]" name="forgotPassword" duration-ms="1653" started-at="2022-01-30T20:30:14 CET" finished-at="2022-01-30T20:30:16 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method status="PASS" signature="getText()[pri:0, instance:testCases.Test_User_Login@4d50efb8]" name="getText" duration-ms="864" started-at="2022-01-30T20:30:16 CET" finished-at="2022-01-30T20:30:17 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getText -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testCases.Test_User_Login@4d50efb8]" name="login" duration-ms="1108" started-at="2022-01-30T20:30:17 CET" finished-at="2022-01-30T20:30:18 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.Test_User_Login@4d50efb8]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-01-30T20:30:18 CET" finished-at="2022-01-30T20:30:18 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Test_User_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

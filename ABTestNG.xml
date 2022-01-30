@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="AB Test Suite">
+
+	<test name="Check User Login test case">
+
+		<classes>
+		
+			<class name="testCases.Test_User_Login">
+
+
+			</class>
+
+		</classes>
+
+	</test>
+
+
+</suite>
